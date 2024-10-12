@@ -1,4 +1,3 @@
-# AIML_Project-2
 # Project-2: Used Cars Price Prediction
 
 ## Overview
